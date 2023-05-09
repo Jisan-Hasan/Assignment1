@@ -34,3 +34,5 @@
     let z = 5 as number;
     ```
     
+    Can't solve this problem. Thats why submitting the code in my personal repo.
+<image src='error.jpg'/>
