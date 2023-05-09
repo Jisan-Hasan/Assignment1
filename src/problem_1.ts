@@ -5,4 +5,4 @@ function repeatString(str:string,num:number=3):void{
       }
 }
 
-repeatString('Hello',5);
+// repeatString('Hello',5);
